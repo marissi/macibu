@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Primitivo datu tipu demo/1.0.0": {
+        "runtime": {
+          "Primitivo datu tipu demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primitivo datu tipu demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

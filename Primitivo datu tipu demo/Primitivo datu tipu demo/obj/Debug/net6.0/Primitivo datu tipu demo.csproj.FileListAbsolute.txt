@@ -1,0 +1,15 @@
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\bin\Debug\net6.0\Primitivo datu tipu demo.exe
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\bin\Debug\net6.0\Primitivo datu tipu demo.deps.json
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\bin\Debug\net6.0\Primitivo datu tipu demo.runtimeconfig.json
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\bin\Debug\net6.0\Primitivo datu tipu demo.dll
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\bin\Debug\net6.0\Primitivo datu tipu demo.pdb
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\Primitivo datu tipu demo.csproj.AssemblyReference.cache
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\Primitivo datu tipu demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\Primitivo datu tipu demo.AssemblyInfoInputs.cache
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\Primitivo datu tipu demo.AssemblyInfo.cs
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\Primitivo datu tipu demo.csproj.CoreCompileInputs.cache
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\Primitivo datu tipu demo.dll
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\refint\Primitivo datu tipu demo.dll
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\Primitivo datu tipu demo.pdb
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\Primitivo datu tipu demo.genruntimeconfig.cache
+C:\Users\maris\Source\Repos\macibu\Primitivo datu tipu demo\Primitivo datu tipu demo\obj\Debug\net6.0\ref\Primitivo datu tipu demo.dll
